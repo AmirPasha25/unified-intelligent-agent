@@ -1,6 +1,12 @@
 # 🧠 Unified Intelligent Agent  
 ### _A Multi-Tool, LangGraph-Powered AI Assistant by Amir Pasha_
 
+![Agent Calculation Screenshot](Agent_Calculation.png)
+![Big Calculator Result](Big_Calculator.png)
+![ChatGPT Result](Chatgpt_Calculation.png)
+![Copilot Result](Copilot_Calculation.png)
+![Gemini Result](Gemini_Calculation.png)
+
 ---
 
 ## 🚀 Overview
