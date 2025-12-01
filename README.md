@@ -24,7 +24,7 @@
 
 **Unified Intelligent Agent** is a **modular AI framework** built using **LangGraph**, **LangChain**, and **OpenAI GPT-5-Nano**, capable of reasoning, searching, computing, and interacting with multiple real-world tools all within a single intelligent environment.  
 
-It acts as a **Super Intelligent Assistant** that combines:
+It acts as a **Super Intelligent Agent** that combines:
 - 💬 Natural language reasoning (via GPT-5-Nano)
 - 🔎 Real-time web + search integration (via Tavily)
 - 🧮 Mathematical computation tools
